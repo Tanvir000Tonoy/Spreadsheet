@@ -2,3 +2,9 @@
 # Spreadsheet
 Learning the basics of Microsoft Excel , google sheets , and Spreadsheet
 
+```c
+// Learning together 
+1. Excel Basics 
+2. Data science core concepts 
+```
+
