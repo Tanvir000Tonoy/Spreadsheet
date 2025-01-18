@@ -1,7 +1,5 @@
 ![Image](https://www.adobe.com/uk/acrobat/resources/document-files/media_1ce0ddeaab01cbc18d65ecefa56acfec7a038541b.png?width=750&format=png&optimize=medium)
-# WHY I'M LEARNING EXCEL IN THIS ERA ? 
-## FOR PURSUING DATA SCIENCE CAREER
-### AGENDA : 
+
 ```
 1. EXCEL BASICS
 2. DATA ANALYSIS
