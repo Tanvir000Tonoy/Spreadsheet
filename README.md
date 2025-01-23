@@ -8,12 +8,9 @@ Learning the basics of Microsoft Excel , google sheets , and Spreadsheet
 2. Data science core concepts 
 ```
 
-Users: 
+Progress of individual persons: 
 
-1. Tanvir Tonoy
-2. Shimul Sarker
-3. Bandhan
+[1. Tanvir Tonoy](https://www.w3profile.com/tanvir000tonoy)<br>
+[2. Shimul Sarker](https://www.w3profile.com/shimul_sarker)<br>
+[3. Bandhan]()<br>
 4. Riyad
-
-
-[My Progress on W3School](https://www.w3profile.com/tanvir000tonoy)
