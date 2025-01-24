@@ -12,5 +12,5 @@ Progress of individual persons:
 
 [1. Tanvir Tonoy](https://www.w3profile.com/tanvir000tonoy)<br>
 [2. Shimul Sarker](https://www.w3profile.com/shimul_sarker)<br>
-[3. Bandhan]()<br>
+[3. Bandhan](https://www.w3profile.com/bandhansarker)<br>
 4. Riyad
